@@ -1,0 +1,10 @@
+Package: com.alex0.gamefusion
+Name: GameFusion Mod Menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Advanced iOS Mod Menu with Gamepad Support and Controller Light Customization
+Maintainer: alex0
+Author: alex0
+Section: Tweaks
+Homepage: https://github.com/yourusername/GameFusion
